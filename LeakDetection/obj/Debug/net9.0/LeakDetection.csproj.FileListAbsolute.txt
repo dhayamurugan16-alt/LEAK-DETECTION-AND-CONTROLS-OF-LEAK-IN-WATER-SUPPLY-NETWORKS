@@ -1,0 +1,80 @@
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.exe
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.deps.json
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.runtimeconfig.json
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.pdb
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Core.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Data.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.KMeansClustering.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.PCA.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.StandardTrainers.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Transforms.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.CpuMath.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.DataView.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\System.CodeDom.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\System.Numerics.Tensors.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-arm64\native\LdaNative.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-x64\native\LdaNative.dll
+D:\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-x86\native\LdaNative.dll
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.csproj.AssemblyReference.cache
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.AssemblyInfoInputs.cache
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.AssemblyInfo.cs
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.csproj.CoreCompileInputs.cache
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDete.438320CC.Up2Date
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.dll
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\refint\LeakDetection.dll
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.pdb
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.genruntimeconfig.cache
+D:\Leak Detection\LeakDetection\obj\Debug\net9.0\ref\LeakDetection.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.exe
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.deps.json
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.runtimeconfig.json
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\LeakDetection.pdb
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Core.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Data.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.KMeansClustering.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.PCA.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.StandardTrainers.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.Transforms.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.CpuMath.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Microsoft.ML.DataView.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\System.CodeDom.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\System.Numerics.Tensors.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-x64\native\LdaNative.dll
+C:\Leak Detection\Leak Detection\LeakDetection\bin\Debug\net9.0\runtimes\win-x86\native\LdaNative.dll
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.csproj.AssemblyReference.cache
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.AssemblyInfoInputs.cache
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.AssemblyInfo.cs
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.csproj.CoreCompileInputs.cache
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDete.438320CC.Up2Date
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.dll
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\refint\LeakDetection.dll
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.pdb
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\LeakDetection.genruntimeconfig.cache
+C:\Leak Detection\Leak Detection\LeakDetection\obj\Debug\net9.0\ref\LeakDetection.dll
